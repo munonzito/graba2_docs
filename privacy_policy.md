@@ -1,6 +1,6 @@
 # Política de Privacidad de Graba2: Grabado de Patentes
 
-En Graba2, nos tomamos muy en serio la privacidad y la seguridad de los datos de nuestros usuarios. Esta Política de Privacidad describe cómo recopilamos, utilizamos, almacenamos y protegemos la información personal que usted proporciona al utilizar nuestra aplicación "Grabamax: Grabado de Patentes". Al utilizar nuestra aplicación, usted acepta los términos de esta Política de Privacidad.
+En Graba2, nos tomamos muy en serio la privacidad y la seguridad de los datos de nuestros usuarios. Esta Política de Privacidad describe cómo recopilamos, utilizamos, almacenamos y protegemos la información personal que usted proporciona al utilizar nuestra aplicación "Graba2: Grabado de Patentes". Al utilizar nuestra aplicación, usted acepta los términos de esta Política de Privacidad.
 
 ## Recopilación de Información
 
